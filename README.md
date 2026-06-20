@@ -1,1 +1,1 @@
-# EmotionDetector
+# Final Project - Emotion Detector
